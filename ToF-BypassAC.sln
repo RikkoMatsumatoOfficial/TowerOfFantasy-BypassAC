@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ToF-BypassAC", "ToF-BypassAC\ToF-BypassAC.vcxproj", "{810B2676-EC84-4023-8681-A548C82EDDF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{810B2676-EC84-4023-8681-A548C82EDDF0}.Debug|x64.ActiveCfg = Debug|x64
+		{810B2676-EC84-4023-8681-A548C82EDDF0}.Debug|x64.Build.0 = Debug|x64
+		{810B2676-EC84-4023-8681-A548C82EDDF0}.Debug|x86.ActiveCfg = Debug|Win32
+		{810B2676-EC84-4023-8681-A548C82EDDF0}.Debug|x86.Build.0 = Debug|Win32
+		{810B2676-EC84-4023-8681-A548C82EDDF0}.Release|x64.ActiveCfg = Release|x64
+		{810B2676-EC84-4023-8681-A548C82EDDF0}.Release|x64.Build.0 = Release|x64
+		{810B2676-EC84-4023-8681-A548C82EDDF0}.Release|x86.ActiveCfg = Release|Win32
+		{810B2676-EC84-4023-8681-A548C82EDDF0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D601305-190B-46BE-AE98-4673F0795E23}
+	EndGlobalSection
+EndGlobal
