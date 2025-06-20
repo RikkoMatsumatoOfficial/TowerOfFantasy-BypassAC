@@ -6,7 +6,7 @@ This is Bypass AntiCheeto for Game [Tower Of Fantasy](https://www.toweroffantasy
 
 [Join To My Discord Server](https://discord.gg/U2P5Hrcq9C)
 
-## If you enjoyed, please Donate Me!!!
+## If you enjoyed of my program, please Donate Me!!!
 
 [DonationAlerts(For Russians and Others Countries with Commonwealth of Independent States)](https://donationalerts.com/r/rikkomatsumato)
 
